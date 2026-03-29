@@ -1,7 +1,7 @@
 ---
 title: "Frequency response in miRNA mediated genetic regulation "
 collection: talks
-type: "talk"
+type: "Talk"
 permalink: /talks/cambi
 venue: "Computational Aspects and Modeling of Biological Information Workshop."
 date: 2022-12-12
