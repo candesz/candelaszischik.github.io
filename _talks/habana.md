@@ -4,7 +4,7 @@ collection: talks
 type: "Talk"
 permalink: /talks/habana
 venue: "International School on Statistical Inference from Biological Data (ICTP)"
-date: 2026-13-02
+date: 2026-02-13
 location: "La Habana, Cuba"
 ---
 
