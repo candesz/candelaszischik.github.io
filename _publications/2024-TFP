@@ -1,0 +1,12 @@
+title: "Transient frequency preference responses in cell signaling systems"
+collection: publications
+category: manuscripts
+permalink: /publication/2024-TFP
+date: 2024-01-01
+venue: "npj Systems Biology and Applications"
+excerpt: "Szischik, C.L., Reves Szemere, J., Balderrama, R., Sánchez de la Vega, C, Ventura A.C."
+paperurl: "https://doi.org/10.1038/s41540-024-00413-w"
+citation: "Szischik, C.L., Reves Szemere, J., Balderrama, R. et al. (2024). Transient frequency preference responses in cell signaling systems. npj Systems Biology and Applications, 10, 86."
+---
+
+Ligand–receptor systems, covalent modification cycles, and transcriptional networks are the fundamental components of cell signaling and gene expression systems. While their behavior in reaching a steady-state regime under step-like stimulation is well understood, their response under repetitive stimulation, particularly at early time stages is poorly characterized. Yet, early-stage responses to external inputs are arguably as informative as late-stage ones. In simple systems, a periodic stimulation elicits an initial transient response, followed by periodic behavior. Transient responses are relevant when the stimulation has a limited time span, or when the stimulated component’s timescale is slow as compared to the timescales of the downstream processes, in which case the latter processes may be capturing only those transients. In this study, we analyze the frequency response of simple motifs at different time stages. We use dose-conserved pulsatile input signals and consider different metrics versus frequency curves. We show that in ligand–receptor systems, there is a frequency preference response in some specific metrics during the transient stages, which is not present in the periodic regime. We suggest this is a general system-level mechanism that cells may use to filter input signals that have consequences for higher order circuits. In addition, we evaluate how the described behavior in isolated motifs is reflected in similar types of responses in cascades and pathways of which they are a part. Our studies suggest that transient frequency preferences are important dynamic features of cell signaling and gene expression systems, which have been overlooked.
