@@ -1,5 +1,5 @@
 ---
-title: "Talk 1 on Relevant Topic in Your Field"
+title: "Frequency decoding in post-transcriptional regulation."
 collection: talks
 type: "Talk"
 permalink: /talks/habana
