@@ -4,10 +4,10 @@ collection: publications
 category: books
 permalink: /publication/cerna-crosstalk
 date: 2025-01-01
-venue: "Methods in Molecular Biology"
-excerpt: "Ferro E, Szischik CL, Cunial M, Ventura AC, De Martino A, Bosia C. This chapter discusses out-of-equilibrium ceRNA crosstalk and its implications in gene regulation."
+venue: "Computational Biology of Non-Coding RNA. Methods in Molecular Biology"
+excerpt: "This chapter discusses out-of-equilibrium ceRNA crosstalk and its implications in gene regulation."
 paperurl: "https://doi.org/10.1007/978-1-0716-4290-0_8"
-citation: "Ferro E, Szischik CL, Cunial M, Ventura AC, De Martino A, Bosia C. (2025). Out-of-Equilibrium ceRNA Crosstalk. Methods in Molecular Biology, 2883, 167–193."
+citation: "Ferro, E., Szischik, C.L., Cunial, M., Ventura, A.C., De Martino, A., Bosia, C. (2025). Out-of-Equilibrium ceRNA Crosstalk. In: Lai, X., Gupta, S., Vera Gonzalez, J. (eds) Computational Biology of Non-Coding RNA. Methods in Molecular Biology, vol 2883. Humana, New York, NY. https://doi.org/10.1007/978-1-0716-4290-0_8"
 ---
 
 Among non-coding RNAs, microRNAs are pivotal post-transcriptional regulators of gene expression in higher eukaryotes. Through titration-based mechanism of interaction with their target RNAs, microRNAs can mediate a weak but pervasive form of RNA cross-regulation, as different endogenous RNAs can be effectively coupled by competing for microRNA binding (a phenomenon now known as “crosstalk”). Mathematical modeling has been proven of great help in unraveling many features of these competing endogenous RNA (ceRNA) interactions. However, although many studies have been devoted to the steady-state properties of this indirect regulatory layer, little is known about how the information encoded in frequency, amplitude, duration, and other features of regulatory signals can affect the resulting ceRNA crosstalk picture and hence the overall patterns of gene expression. Here, we focus on such dynamical aspects, with a special emphasis on the encoding and decoding of time-dependent signals.
