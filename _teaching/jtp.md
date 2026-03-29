@@ -15,7 +15,7 @@ Work up to 15 hours per week.
 Courses
 ======
 
-- Physics II, first and second semesters 2023  
+- Physics II (wave theory and optics), first and second semesters 2023  
 - Physics II, Summer term 2026  
 
 Appointments:
