@@ -15,6 +15,6 @@ redirect_from:
 * Non-linear Dynamics
 * Computational Biology
 * Gene regulation
-* Statistical methods
+* Statistical physics 
 * Optics
   
