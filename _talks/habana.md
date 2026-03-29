@@ -1,5 +1,5 @@
 ---
-title: "Frequency decoding in post-transcriptional regulation."
+title: "Frequency decoding in post-transcriptional regulation"
 collection: talks
 type: "Talk"
 permalink: /talks/habana
