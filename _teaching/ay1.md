@@ -19,3 +19,4 @@ Courses
 
 * Physics II, second semester 2021  
 * Physics II, first semester 2022  
+* Exactas Programa, summer and winter courses 2022, 2023
