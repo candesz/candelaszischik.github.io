@@ -6,8 +6,6 @@ author_profile: true
 redirect_from:
   - /resume
 ---
-[Download full CV (PDF)](/files/CV_Szischik_extended.pdf)
-{% include base_path %}
 
 Education
 ======
@@ -78,3 +76,6 @@ Spanish (native)
 English (fluent)
 Italian (intermediate)
 French (initial)
+
+[Download full CV (PDF)](/files/CV_Szischik_extended.pdf)
+{% include base_path %}
