@@ -4,7 +4,7 @@ collection: teaching
 type: "Undergraduate courses"
 permalink: /teaching/ay1
 venue: "Universidad de Buenos Aires, Facultad de Ciencias Exactas y Naturales, Department of Physics"
-date: 2021
+date: 2021-08-01
 location: "Buenos Aires, Argentina"
 ---
 
