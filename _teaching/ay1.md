@@ -17,6 +17,6 @@ Period: August 2021 – July 2022
 Courses
 ======
 
-* Physics II, second semester 2021  
+* Physics II (wave theory and optics), second semester 2021  
 * Physics II, first semester 2022  
 * Exactas Programa, summer and winter courses 2022, 2023
