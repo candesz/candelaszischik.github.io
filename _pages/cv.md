@@ -63,6 +63,15 @@ Teaching
   <ul>{% for post in site.teaching reversed %}
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
+
+Fellowships and awards
+======
+* Poster Award at EBSA 2025. June 30th to July 4th 2025, Rome, Italy. The advantage of periodic over constant signalling in microRNA mediated regulation, Szischik C, Ferro E, Ventura AC, Bosia C.
+* Travel Grant – International Union of Pure and Applied Biophysics (IUPAB) Financial support to attend the EBSA 2025, Rome, Italy, from 30th June to 4th July 2025.
+* Mobility Grant – Graduate Students and Early-Career Researchers Programme (+Viajes). Facultad de Ciencias Exactas y Naturales, Universidad de Buenos Aires. Funding to carry out a research stay at the Italian Institute of Genomic Medicine  and Politecnico di Torino, Turin, Italy, October 2023. 
+* Travel Grant – The Company of Biologists for a collaboration with the Inference and Computational Biology unit, Politecnico of Torino and Italian Institute of Genomic Medicine. October to December 2022. 
+* Doctoral Fellowship – CONICET (National Scientific and Technical Research Council). Project: Study of gene regulatory networks with interacting mRNAs and microRNAs using a theoretical–experimental physics approach. Ranked 4th in the national merit list.
+* Undergraduate Research Fellowship for Scientific Vocation granted by the Consejo Interuniversitario Nacional (Beca EVC-CIN), to develop the research project: Study of the mirror effect in the wings of the Dione Vanillae butterfly  to accomplish the MSc. Thesis in Physics. 2018
   
 Service 
 ======
