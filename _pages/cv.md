@@ -6,40 +6,47 @@ author_profile: true
 redirect_from:
   - /resume
 ---
-
+[Download full CV (PDF)](/files/CV_Szischik_extended.pdf)
 {% include base_path %}
 
 Education
 ======
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
-* M.S. in Jekyll, GitHub University, 2014
-* B.S. in GitHub, GitHub University, 2012
+* Ph.D in Physics, Facultad de Ciencias Exactas y Naturales, Universidad de Buenos Aires, 2021-2026 (expected)
+* M.Sc. in Physical Sciences, Buenos Aires University, 2021
 
-Work experience
-======
-* Spring 2024: Academic Pages Collaborator
-  * GitHub University
-  * Duties includes: Updates and improvements to template
-  * Supervisor: The Users
+Special Assignments taken
 
-* Fall 2015: Research Assistant
-  * GitHub University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
-
-* Summer 2015: Research Assistant
-  * GitHub University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+* Biological Physics
+* Statistical Methods for Experimental Physics
+* Non-linear dynamics
+* New Advances in Thermodynamics and Statistical Physics
+* New Mathematical and Computational Methods for Science and Engineering
+* Dynamic Systems and Artificial Intelligence Applied to Data Modeling
+* Complex Networks
+* Image Processing with Applications in Biomedicine
+* Data Reduction and Visualization Techniques
   
 Skills
 ======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+
+* Scientific computing
+   * Mathematical modelling
+   * Non-linear dynamics
+   * Statistical physics
+   * Stochastic simulations
+   * Data analysis and visualization
+* Programming and tool
+   * Python
+   * R
+   * LaTeX
+   * Git
+   * ImageJ
+*Experimental techniques
+   * Molecular cloning
+   * PCR
+   * Bacteria transformation
+   * Cell culture (HEK293)
+   * Transfection
 
 Publications
 ======
@@ -59,6 +66,15 @@ Teaching
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
   
-Service and leadership
+Service 
 ======
-* Currently signed in to 43 different slack teams
+* Elected Graduate Representative for the Departmental Council of Physics. Universidad de Buenos Aires. 2024-ongoing.
+* Overseer at the PhD Subcommittee in Physics. Facultad de Ciencias Exactas y Naturales, Universidad de Buenos Aires.  2023- ongoing.
+* Stuff member in the international Statphys 27, celebrated in Buenos Aires, Argentina in July 2019. 
+
+Languages 
+======
+Spanish (native)
+English (fluent)
+Italian (intermediate)
+French (initial)
