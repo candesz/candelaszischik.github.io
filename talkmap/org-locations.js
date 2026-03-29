@@ -10,7 +10,7 @@ var addressPoints = [
     9.1896346
   ],
   [
-    "Frequency decoding in post-transcriptional regulation.<br />International School on Statistical Inference from Biological Data (ICTP); La Habana, Cuba",
+    "Frequency decoding in post-transcriptional regulation<br />International School on Statistical Inference from Biological Data (ICTP); La Habana, Cuba",
     23.135305,
     -82.3589631
   ]
