@@ -1,22 +1,17 @@
 var addressPoints = [
   [
-    "Talk 1 on Relevant Topic in Your Field<br />UC San Francisco, Department of Testing; San Francisco, CA, USA",
-    37.7879363,
-    -122.4075201
+    "Transient frequency preference in cell signaling systems<br />Department of Applied Science and Technology. Politecnico di Torino; Turin, Italy",
+    45.0677551,
+    7.6824892
   ],
   [
-    "Talk 2 on Relevant Topic in Your Field<br />London School of Testing; London, UK",
-    51.5074456,
-    -0.1277653
+    "Frequency response in miRNA mediated genetic regulation<br />Computational Aspects and Modeling of Biological Information Workshop.; Milan, Italy",
+    45.4641943,
+    9.1896346
   ],
   [
-    "Tutorial 1 on Relevant Topic in Your Field<br />UC-Berkeley Institute for Testing Science; Berkeley, CA, USA",
-    37.8708393,
-    -122.272863
-  ],
-  [
-    "Conference Proceeding talk 3 on Relevant Topic in Your Field<br />Testing Institute of America 2014 Annual Conference; Los Angeles, CA, USA",
-    34.0536909,
-    -118.242766
+    "Frequency decoding in post-transcriptional regulation.<br />International School on Statistical Inference from Biological Data (ICTP); La Habana, Cuba",
+    23.135305,
+    -82.3589631
   ]
 ];
