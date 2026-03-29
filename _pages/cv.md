@@ -39,7 +39,7 @@ Skills
    * LaTeX
    * Git
    * ImageJ
-*Experimental techniques
+* Experimental techniques
    * Molecular cloning
    * PCR
    * Bacteria transformation
