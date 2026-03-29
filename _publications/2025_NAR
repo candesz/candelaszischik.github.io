@@ -1,0 +1,12 @@
+---
+title: "The advantage of periodic over constant signalling in microRNA-mediated regulation."
+collection: publications
+category: manuscripts
+permalink: /publication/2025-NAR
+date: 2025-09-05
+venue: "Nucleic Acid Research"
+excerpt: "Ferro E, Szischik CL, Ventura AC, Bosia C."
+paperurl: "https://doi.org/10.1093/nar/gkaf867"
+---
+
+Cells may exploit oscillatory gene expression to encode biological information. Temporal features of oscillations, such as pulse frequency and amplitude, are determinant for the outcome of signalling pathways. However, little effort has been devoted to unveiling the role of pulsatility in the context of post-transcriptional gene regulation, where microRNAs act by binding to RNAs and regulate their expression. Here, we study the effects of periodic against constant microRNA synthesis within minimal microRNA–target networks. We find that there is a repressive advantage of pulsatile over constant microRNA synthesis, and that the extent of repression depends on the frequency of pulses, thus uncovering frequency preference behaviours. We show that the preference for specific input frequencies is determined by relative microRNA and target kinetic rates and can lead to exclusive frequency-dependent repression on distinct RNA species, thereby highlighting a potential mechanism of selective dynamical target regulation. Moreover, we show that frequencies observed in periodically expressed microRNAs, such as those involved in circadian rhythms and development, can be selectively favored. Our findings might have implications for experimental studies aimed at understanding how periodic patterns drive biological responses through microRNA-mediated signalling and provide suggestions for validation in synthetic networks.
