@@ -11,6 +11,18 @@ author_profile: true
 
 {% endif %}
 
+## Talks
+
 {% for post in site.talks reversed %}
-  {% include archive-single-talk.html %}
+  {% if post.type == "Talk" %}
+    {% include archive-single-talk.html %}
+  {% endif %}
+{% endfor %}
+
+## Conferences attended
+
+{% for post in site.talks reversed %}
+  {% if post.type == "Conference" %}
+    {% include archive-single-talk.html %}
+  {% endif %}
 {% endfor %}
